@@ -192,7 +192,7 @@ This data was used to generate meaningful business insights and performance metr
 
 👨‍💻 Author
 
-Study for Maa
+Sakshi Singh
 
 B.Tech CSE (AI & ML) Student 🚀
 
