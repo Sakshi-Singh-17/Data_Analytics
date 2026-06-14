@@ -1,6 +1,6 @@
-📊 DecodeLabs Internship Projects
+📊 Data Analytics Projects
 
-Welcome to my Data Analytics Internship Project Repository completed during my internship at DecodeLabs. This repository contains four end-to-end data analytics projects covering the complete analytics workflow from data cleaning and exploration to SQL-based analysis and data visualization.
+Welcome to my Data Analytics Project Repository. This repository contains four end-to-end data analytics projects covering the complete analytics workflow from data cleaning and exploration to SQL-based analysis and data visualization.
 
 These projects demonstrate practical skills in data preprocessing, exploratory data analysis (EDA), SQL querying, and business-oriented visualization using real-world e-commerce sales data.
 
@@ -42,7 +42,7 @@ The cleaning process included handling missing values, standardizing data format
 
 - Python
 - Pandas
-- Excel Data Handling
+- Microsoft Excel
 
 ---
 
@@ -73,7 +73,6 @@ Statistical analysis techniques were used to understand customer behavior, produ
 - Python
 - Pandas
 - Matplotlib
-- Statistical Analysis
 
 ---
 
@@ -103,7 +102,7 @@ The cleaned dataset was loaded into a SQLite database, and multiple SQL queries 
 
 - Python
 - SQLite
-- SQL Queries
+- SQL
 - Pandas
 
 ---
@@ -136,9 +135,9 @@ Business-focused visualizations were created to highlight product demand, revenu
 
 ---
 
-🎯 Internship Learning Outcomes
+🎯 Learning Outcomes
 
-Through these projects, I learned:
+Through these projects, I developed practical experience in:
 
 - Data Cleaning and Preparation Techniques
 - Exploratory Data Analysis (EDA)
@@ -193,8 +192,8 @@ This data was used to generate meaningful business insights and performance metr
 
 👨‍💻 Author
 
-Sakshi Singh
+Study for Maa
 
-Data Analytics Enthusiast 🚀
+B.Tech CSE (AI & ML) Student 🚀
 
-Passionate about transforming raw data into actionable business insights through analytics, visualization, and data-driven decision making.
+Passionate about Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy transforming raw data into meaningful insights and building real-world projects that solve practical problems.
